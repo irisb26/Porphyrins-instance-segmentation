@@ -1,5 +1,6 @@
 stardist/
 __pycache__/
+*.yml.bak
 
 .ipynb_checkpoints/
 */.ipynb_checkpoints/*
