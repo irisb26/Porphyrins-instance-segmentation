@@ -2,5 +2,7 @@ stardist/
 __pycache__/
 *.yml.bak
 
+models/
+
 .ipynb_checkpoints/
 */.ipynb_checkpoints/*
